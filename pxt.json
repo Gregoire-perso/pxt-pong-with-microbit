@@ -4,15 +4,17 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-microbit": "workspace:513b63b0-5af0-4fa9-0e66-79e6ee76d055"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "intro.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
